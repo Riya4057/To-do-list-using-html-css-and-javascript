@@ -1,2 +1,2 @@
 # To-do-list
-I have created this o-do list website using  HTML CSS and JavaScript
+I have created this To-do List website using  HTML CSS and JavaScript
